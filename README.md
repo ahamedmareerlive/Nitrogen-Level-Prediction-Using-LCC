@@ -23,4 +23,4 @@ This project combines a powerful machine learning backend with a modern, respons
 *   **Styling:** **Tailwind CSS**
 *   **Development & Training Environment:** **Google Colab**, **Visual Studio Code**
 
-![Nitrogen Predictor Demo](demo/demo.gif)
+![Nitrogen Predictor Demo](Demo/demo.gif)
